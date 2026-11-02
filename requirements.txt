@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pypdf
+pytest
+python-multipart
+reportlab
+httpx2
+sentence-transformers

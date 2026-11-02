@@ -1,0 +1,22 @@
+[
+{
+    "query": "What is a foundation model?",
+    "relevant_terms": ["foundation model", "foundational capability"],
+    "expected_page": 1
+},
+{
+    "query": "How do generative AI models learn to generate text?",
+    "relevant_terms": ["predict", "next word", "previous words"],
+    "expected_page": 1
+},
+{
+    "query": "What are the disadvantages of foundation models?",
+    "relevant_terms": ["compute costs", "trustworthiness"],
+    "expected_page": 2
+},
+{
+    "query": "How can prompting be used for classification?",
+    "relevant_terms": ["positive", "negative", "sentiment"],
+    "expected_page": 2
+}
+]
